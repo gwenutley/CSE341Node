@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "week1",
+			"path": "../week1"
+		},
+		{
+			"name": "CSE341Node",
+			"path": "."
+		},
+		{
+			"name": "CSE341Node-1",
+			"path": "../CSE341Node-1"
+		}
+	],
+	"settings": {}
+}
